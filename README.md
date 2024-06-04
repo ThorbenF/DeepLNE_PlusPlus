@@ -3,8 +3,6 @@ Repository for 'Knowledge distillation of DeepLNE for accelerated multi-state re
 
 Content:
 
-- DeepLNE class with example usage
-
 - Tutorial of the knowledge distillation framework to train a computationally fast DeepLNE model and use it as a biased CV (System: Particle in Muller-Brown potential)
 
 - All scripts to produce the figures of main text and SI.
