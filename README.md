@@ -7,4 +7,4 @@ Content:
 
 - All scripts to produce the results published in this study and figures of main text and SI.
 
-COLVAR and MD trajectories for the systems studied are available at https://zenodo.org/records/11111
+COLVAR and MD trajectories for the systems studied are available at https://zenodo.org/records/12607552
