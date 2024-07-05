@@ -1,5 +1,5 @@
 # DeepLNE2
-Repository for 'Knowledge distillation of DeepLNE for accelerated multi-state reaction path free energy estimations'
+Repository for 'DeepLNE++ leveraging knowledge distillation for accelerated multi-state path-like collective variables'
 
 Content:
 
