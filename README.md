@@ -1,4 +1,4 @@
-# DeepLNE2
+# DeepLNE_PlusPlus
 Repository for 'DeepLNE++ leveraging knowledge distillation for accelerated multi-state path-like collective variables'
 
 Content:
